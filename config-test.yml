@@ -1,1 +1,1 @@
-spring.cloud.config.demo = 2019-test
+spring.cloud.config.demo : 2019-test
